@@ -1,6 +1,6 @@
 # NOT competition style input
 # read using f.read
-# run as usual
+# this is so we can 'run' as usual
 
 from gear_class import Gear
 
