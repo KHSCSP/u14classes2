@@ -1,9 +1,14 @@
 from student_class import Student
 
-# the student data is
+# the student data is (from grades.txt)
 # name, HW1, HW2, HW3, Test
 
-# get data, split at commas!, add to list
+
+# TODO create a Student class
+# TODO a student has attributes for name, hw, and test scores
+# TODO you'll also want a __str__ method
+
+# TODO get data, split at commas!, add to list
 
 
 
