@@ -1,3 +1,4 @@
+# inspired by https://codingquest.io/problem/18
 # NOT competition style input
 # read using f.read
 # this is so we can 'run' as usual
