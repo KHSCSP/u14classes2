@@ -3,9 +3,14 @@
 # read using f.read
 # this is so we can 'run' as usual
 
+# we'll write a program that allows us 
+# to 'get' specific items from our inventory
+# or to 'total' certain categories
+
 from gear_class import Gear
 
-
+# get the data from the file
+# store as list of 'Gear' objects
 
 
 
