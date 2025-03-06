@@ -1,4 +1,6 @@
 # inspired by https://codingquest.io/problem/18
+from gear_class import Gear
+
 
 # GOAL
 # read data into list of *objects*
