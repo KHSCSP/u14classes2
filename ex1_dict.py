@@ -27,20 +27,18 @@ print(data)
 
 
 
-
-
-print("\n...total of all")
-total = 0
-
-
-print(total)
+print("\n...total weight of all")
 
 
 
 
 
-print("\n...total water")
-total = 0
+print("\n...how many items are water?")
 
 
-print(total)
+
+
+
+
+
+print("\n...total weight of water")
